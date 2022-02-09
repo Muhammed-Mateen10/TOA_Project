@@ -1,7 +1,0 @@
-3 A 0
-B 1
-C 1
-A B a
-B B a
-A C b
-C C a 
